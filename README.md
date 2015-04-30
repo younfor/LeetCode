@@ -1,2 +1,3 @@
 # LeetCode
-answer to LeetCode by c++ and python
+QQ:361106306 欢迎交流
+answer to LeetCode by c++
